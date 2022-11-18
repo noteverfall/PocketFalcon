@@ -1,4 +1,5 @@
 # PocketFalcon v0
+using module @{ ModuleName='PSFalcon'; ModuleVersion='2.0' }
 
 function Pocket-Menu{
 ""
